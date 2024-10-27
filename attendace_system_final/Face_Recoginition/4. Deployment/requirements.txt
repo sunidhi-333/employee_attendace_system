@@ -1,0 +1,19 @@
+name: attend
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.9.16
+  - pip
+  - numpy=1.24.2
+  - pandas
+  - matplotlib
+  - pillow
+  - ipykernel
+  - jupyter_client
+  - jupyter_core
+  - ipython
+  - streamlit
+  - dlib=19.24.0
+  - face_recognition=1.3.0
+  - face_recognition_models=0.3.0
